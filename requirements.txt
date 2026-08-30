@@ -1,0 +1,13 @@
+# Derived from the imports actually used in the notebooks
+gymnasium
+matplotlib
+moviepy<2.0  # moviepy.editor was removed in 2.0
+numpy
+pandas
+pygame  # required by gymnasium's CliffWalking rgb_array rendering
+scikit-image
+scikit-learn
+seaborn
+tensorflow
+tensorflow-datasets
+ucimlrepo

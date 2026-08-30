@@ -1,0 +1,18 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Data downloaded by the notebooks
+energydata_complete.csv
+*.mp4
+videos*/
+
+# OS
+.DS_Store
+Thumbs.db
