@@ -11,7 +11,7 @@
 
 Coursework project — BSc in Applied Data Science, Universitat Oberta de Catalunya (UOC), Machine Learning course.
 
-Four Jupyter notebooks covering the main blocks of the course: supervised classification, regression with ensembles, deep learning for computer vision, and reinforcement learning. All notebooks were developed and executed on Google Colab and keep their original outputs. Notebook narrative is in Spanish.
+Four Jupyter notebooks covering the main blocks of the course: supervised classification, regression with ensembles, deep learning for computer vision, and reinforcement learning. All notebooks were developed and executed on Google Colab and keep their original outputs. Notebook narrative translated to English from the original Spanish; printed outputs and figure labels are shown as originally executed (in Spanish).
 
 ## Objective
 
